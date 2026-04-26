@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![scuba](img/scuba.gif)
 <!--
 **mfikribp/mfikribp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
