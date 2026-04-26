@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 ## GitHub Statistics
 
-<div align="left">
+<div align="center">
 
 <picture>
   <source
@@ -44,6 +44,10 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon" />
 </picture>
+
+</div>
+
+<div align="center">
 
 <picture>
   <source
@@ -67,16 +71,10 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fikri-biban-putra-67b19333b/?skipRedirect=true)
-
-</div>
-
-
 <div align="left">
-<div>
-
-#
+*jangan diseriusin bang, saya masih nub
 </div>
 
-##### *jangan diseriusin bang, saya masih nub
 
-</div>
+
+
