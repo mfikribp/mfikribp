@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 ## GitHub Statistics
 
-<div align="center">
+<div align="left">
 
 <picture>
   <source
@@ -39,10 +39,10 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
     media="(prefers-color-scheme: neon)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon" />
 </picture>
 
 <picture>
@@ -51,10 +51,10 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
     media="(prefers-color-scheme: neon)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=neon"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=neon" />
 </picture>
 
 </div>
@@ -71,8 +71,12 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 </div>
 
 
-<div align="center">
+<div align="left">
+<div>
 
-### jangan diseriusin bang, saya masih nub
+#
+</div>
+
+##### *jangan diseriusin bang, saya masih nub
 
 </div>
