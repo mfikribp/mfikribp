@@ -3,7 +3,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building amazing projects with cutting-edge technologies.
+Welcome to my GitHub profile! I'm an aspiring Data Engineer and automation enthusiast, currently learning and building projects with modern technologies.
 
 ---
 
