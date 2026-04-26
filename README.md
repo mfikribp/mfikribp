@@ -35,14 +35,14 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon"
-    media="(prefers-color-scheme: neon)"
+    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni"
+    media="(prefers-color-scheme: omni)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon"
+    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni" />
 </picture>
 
 </div>
@@ -51,14 +51,14 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=neon"
-    media="(prefers-color-scheme: neon)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni"
+    media="(prefers-color-scheme: omni)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=neon"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni" />
 </picture>
 
 </div>
