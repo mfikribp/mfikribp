@@ -27,45 +27,6 @@
 
 </div>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni"
-    media="(prefers-color-scheme: omni)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mfikribp&show_icons=true&theme=omni" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni"
-    media="(prefers-color-scheme: omni)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfikribp&layout=compact&theme=omni" />
-</picture>
-
-</div>
-
----
-
-
 ## Connect With Me
 
 <div align="center">
